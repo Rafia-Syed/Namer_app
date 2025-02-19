@@ -4,6 +4,7 @@ I'm excited to share Word App, a mobile application I developed using Flutter an
 
 
 🔹 Key Features:
+
 ✅ Word of the Day – Discover new words daily with definitions and examples.
 
 ✅ Random Word Generator – Explore a variety of words on the homepage for effortless learning.
